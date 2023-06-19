@@ -1,1 +1,2 @@
+this is second master text
 this is dev text
